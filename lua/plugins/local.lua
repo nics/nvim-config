@@ -24,13 +24,6 @@ return {
   --   "folke/tokyonight.nvim",
   --   opts = { style = "storm" },
   -- },
-  -- go quicktemplate
-  {
-    "b0o/quicktemplate.vim",
-    dependencies = {
-      "b0o/builder.vim",
-    },
-  },
   -- nomad, hcl
   { "hashivim/vim-terraform" },
 }
